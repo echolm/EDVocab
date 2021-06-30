@@ -1,1 +1,1 @@
-These photos are used on the numbered versions of EDVocab as opposed to the orgional non-numbered origional version.
+These photos are in EDVocab 0.2 and onward.
