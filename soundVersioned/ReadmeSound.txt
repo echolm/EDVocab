@@ -1,1 +1,1 @@
-These sound files are in the numbered versions of EDVocab as opposed to the orgional version.
+These sound files are in EDVocab version 0.2 and onward.
