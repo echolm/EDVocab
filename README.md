@@ -3,7 +3,7 @@ EdVocab is an HTML app created in Twine that allows the user to review vocabular
 
 [Installation]
 
-Download only the EDVocab_X-X.zip file. Unzip the file. There is a single HTML file inside. Run the HTML file in your browser and learn or teach.
+Download only the EDVocab_X-X.zip file. The current version is EDVocab_0-2.zip. Unzip the file. There is a single HTML file inside. Run the HTML file in your browser and learn or teach.
 
 [Modification]
 
